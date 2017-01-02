@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # Slow single thread scan of the /24
+# address is hardcoded
+
 import os
 
 addr = []
